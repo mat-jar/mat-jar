@@ -1,0 +1,7 @@
+- :sunglasses: Hi, my name is Mateusz Jarczyński, I live in Poznań, Poland
+- :mortar_board: I graduated in Bioinformatics from Adam Mickiewicz University in Poznań
+- :koala: I work as a private tutor (with English, Maths, Biology and Chemistry)
+- :movie_camera: I like cinema, nature, running, conceptual art, theatre and plants :herb: :cactus: :palm_tree: :evergreen_tree: :deciduous_tree:
+- :book: I’m currently learning Ruby, Ruby on Rails and React
+- :computer: I’m looking forward to being employed as a RoR developer
+- :mailbox: You can reach me via email: mtu07@poczta.fm or linkedin www.linkedin.com/in/mateusz-jarczyński
